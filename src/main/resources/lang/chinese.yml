@@ -1,0 +1,13 @@
+ERROR_PERMISSION: "&4您没有运行此命令的权限!"
+ERROR_INVALID_HEX: "&c请使用正确的十六进制颜色代码."
+ERROR_INVALID_TAG: "&c请使用正确的颜色标签. 标签的长度不能超过13个字符, 并且只能使用字母与数字."
+ERROR_EXISTING_TAG: "&c您添加的标签已存在."
+ERROR_MISSING_TAG: "&c您提供的标签不存在."
+
+TAG_CREATION: "&f您已成功创建 <tag>!"
+TAG_DELETION: "&6您已成功删除 &f<tag>."
+
+HELP_TAG_RELOAD: "&9/iridescent reload &7-&r重新载入config.yml配置文件"
+HELP_TAG_CREATE: "&9/iridescent create [十六进制代码] [标签名字] &7-&r创建一个新颜色标签"
+HELP_TAG_DELETE: "&9/iridescent delete [标签名字] &7-&r 删除指定的颜色标签"
+HELP_TAG_LIST: "&9/iridescent list [列表行数] &7-&r 显示现有颜色标记的列表"

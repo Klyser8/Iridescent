@@ -1,0 +1,39 @@
+#
+#    ██╗ ██████╗░ ██╗ ██████╗░ ███████╗ ░██████╗ ░█████╗░ ███████╗ ███╗░░██╗ ████████╗
+#    ██║ ██╔══██╗ ██║ ██╔══██╗ ██╔════╝ ██╔════╝ ██╔══██╗ ██╔════╝ ████╗░██║ ╚══██╔══╝
+#    ██║ ██████╔╝ ██║ ██║░░██║ █████╗░░ ╚█████╗░ ██║░░╚═╝ █████╗░░ ██╔██╗██║ ░░░██║░░░
+#    ██║ ██╔══██╗ ██║ ██║░░██║ ██╔══╝░░ ░╚═══██╗ ██║░░██╗ ██╔══╝░░ ██║╚████║ ░░░██║░░░
+#    ██║ ██║░░██║ ██║ ██████╔╝ ███████╗ ██████╔╝ ╚█████╔╝ ███████╗ ██║░╚███║ ░░░██║░░░
+#    ╚═╝ ╚═╝░░╚═╝ ╚═╝ ╚═════╝░ ╚══════╝ ╚═════╝░ ░╚════╝░ ╚══════╝ ╚═╝░░╚══╝ ░░░╚═╝░░░
+
+#-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-=====-#
+
+#Available languages: English, Italian, Spanish, Russian, Portuguese, Chinese
+Language: English
+
+#Debugging level:
+#0 Displays errors only
+#1 Logs plugin information on plugin enable/disable and config reload
+#2 Logs plugin information whenever possible
+Debug: 0
+
+#The format which color tags must follow in order to be used in game.
+# - It must include {TAG} in order for the plugin to work.
+# - The tag format requires at least one character to be written before {TAG} in order to work.
+# - Suggested alternative tags: %{TAG}%, ~{TAG}.
+Tag Format: "<@{TAG}>"
+
+#Where the plugin should look to apply the special colors. Comment out any option you don't want to be enabled.
+Color Support:
+  - scoreboard
+  - tablist
+  - bossbar
+  - motd
+  - actionbar
+  - plugin_message
+  - title
+  - command
+ # - chat
+
+#Whether players require permissions such as 'irid.chatcolor.rust' to use color tags in chat. Requires chat color support to be enabled!
+Chat Permissions: false

@@ -1,0 +1,13 @@
+ERROR_PERMISSION: "&4У Вас нет прав для использвания данной команды!"
+ERROR_INVALID_HEX: "&cПожалуйста, введи правильный hex код."
+ERROR_INVALID_TAG: "&cПожалуйста, введи правильное название цвета. Название должно содержать не более 13 символов, используйте только цифры и буквы."
+ERROR_EXISTING_TAG: "&cНазвание уже используется."
+ERROR_MISSING_TAG: "&cУказанное Вами незвание не существует."
+
+TAG_CREATION: "&fВы успешно создали <tag>!"
+TAG_DELETION: "&6Вы удалили &f<tag>."
+
+HELP_TAG_RELOAD: "&9/iridescent reload &7-&r перезагрузка конфига config.yml"
+HELP_TAG_CREATE: "&9/iridescent create [hexcode] [tag] &7-&r создать новое название"
+HELP_TAG_DELETE: "&9/iridescent delete [tag] &7-&r удалить существующие название"
+HELP_TAG_LIST: "&9/iridescent list [page] &7-&r выводит список существующих цветов"

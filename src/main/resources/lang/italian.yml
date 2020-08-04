@@ -1,0 +1,13 @@
+ERROR_PERMISSION: "&4Non hai i permessi per usare questo comando!"
+ERROR_INVALID_HEX: "&cInserisci un codice hex valido."
+ERROR_INVALID_TAG: "&cInscerisci un tag valido. Il tag deve essere 13 o meno caratteri di lunghezza, e composto solo da lettere/numeri."
+ERROR_EXISTING_TAG: "&cIl tag scritto e' gia' in uso."
+ERROR_MISSING_TAG: "&cIl tag inserito non esiste."
+
+TAG_CREATION: "&fHai creato <tag>!"
+TAG_DELETION: "&6Hai cancellato &f<tag>."
+
+HELP_TAG_RELOAD: "&9/iridescent reload &7-&r aggiorna il config.yml del plugin"
+HELP_TAG_CREATE: "&9/iridescent create [hexcode] [tag] &7-&r crea un tag nuovo"
+HELP_TAG_DELETE: "&9/iridescent delete [tag] &7-&r cancella un tag esistente"
+HELP_TAG_LIST: "&9/iridescent list [page] &7-&r mostra una lista dei colori esistenti"

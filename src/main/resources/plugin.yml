@@ -1,0 +1,9 @@
+name: Iridescent
+version: ${project.version}
+main: com.github.klyser8.iridescent.Iridescent
+api-version: 1.16
+authors: [Klyser8]
+load: STARTUP
+softdepend: [MMOItems]
+depend: [ProtocolLib]
+description: Adds hex color support, and allows color tag creation for any use. Supports gradients!

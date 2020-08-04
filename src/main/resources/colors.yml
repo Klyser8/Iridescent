@@ -1,0 +1,36 @@
+# -  84fc03:  <-- This is a color hexadecimal code. You can use this website to find out what a color's hex code is: https://htmlcolorcodes.com/color-picker/
+#                 When creating new color tags, make sure that the hexadecimal code does NOT include the hashtag (#).
+# -  "lime"  <-- This is a color tag. Iridescent will replace it with the color obtained from the hexcode.
+#                 Color tags have to be alphanumerical, and between 1-16 characters of length. They may include underscores (_)
+# - TO USE COLOR TAGS, FOLLOW THIS FORMAT: <@color-tag>
+
+Color Tags:
+  ff0000: "fire"
+  dc143c: "crimson"
+  b45019: "rust"
+  ef8e38: "tangerine"
+  ffc31c: "dandelion"
+  b7ff00: "lime"
+  618a3d: "leaf"
+  929d40: "olive"
+  50c878: "mint" 
+  bddeec: "ice" 
+
+  00c8ff: "sky" 
+  0fd2f6: "baby_blue"
+  007bff: "midnight" 
+  726eff: "indigo" 
+  7851a9: "royal_purple"
+  9c6eff: "violet" 
+  4b0082: "lavender" 
+  c8a2c8: "lilac" 
+  ff00ff: "fuchsia" 
+  e69296: "blush" 
+
+  ffc8a9: "beige" 
+  e52b50: "amaranth" 
+  964b00: "brown" 
+  f0ecc7: "eggshell"
+  708c98: "smoke" 
+
+

@@ -1,0 +1,13 @@
+ERROR_PERMISSION: "&4¡No tienes permiso para ejecutar ese comando!"
+ERROR_INVALID_HEX: "&cPor favor escribe un código hexadecimal válido."
+ERROR_INVALID_TAG: "&cPor favor escribe un nombre válido para la etiqueta. El nombre puede contener hasta 13 caracteres, utilizando solo letras y números."
+ERROR_EXISTING_TAG: "&cYa existe esa etiqueta."
+ERROR_MISSING_TAG: "&cNo existe esa etiqueta."
+
+TAG_CREATION: "&f¡Has creado la etiqueta <tag>&f!"
+TAG_DELETION: "&6Has eliminado la etiqueta &f<tag>&6."
+
+HELP_TAG_RELOAD: "&9/iridescent reload &7-&r recarga el archivo config.yml"
+HELP_TAG_CREATE: "&9/iridescent create [cód. hex.] [etiqueta] &7-&r crea una nueva etiqueta de color"
+HELP_TAG_DELETE: "&9/iridescent delete [etiqueta] &7-&r elimina una etiqueta de color"
+HELP_TAG_LIST: "&9/iridescent list [page] &7-&r muestra una lista con las etiquetas de color existentes"
