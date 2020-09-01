@@ -48,7 +48,6 @@ public final class Iridescent extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        injectMainClass(this);
         MessageFetcher fetcher = new MessageFetcher(this);
         Bukkit.getPluginManager().registerEvents(new IridescentEventsHandler(this), this);
         CommandManager commandManager = new CommandManager(this, true);

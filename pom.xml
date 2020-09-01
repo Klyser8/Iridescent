@@ -6,7 +6,7 @@
 
     <groupId>com.github.klyser8</groupId>
     <artifactId>Iridescent</artifactId>
-    <version>1.2.1</version>
+    <version>1.2.2</version>
     <packaging>jar</packaging>
 
     <name>Iridescent</name>
@@ -93,12 +93,6 @@
             <groupId>me.mattstudios.utils</groupId>
             <artifactId>matt-framework</artifactId>
             <version>1.4</version> <!-- replace version here -->
-        </dependency>
-        <dependency>
-            <groupId>net.Indyuce.mmoitems</groupId>
-            <artifactId>MMOItems</artifactId>
-            <version>5.5.3-SNAPSHOT</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>

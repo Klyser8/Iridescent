@@ -19,6 +19,7 @@ public class IridescentEventsHandler implements Listener {
     public void onCommand(PlayerCommandPreprocessEvent event) {
         if (event.getMessage().contains("/irid") || !plugin.getColorSupporters().contains(ColorSupporters.COMMAND)) return;
         event.setMessage(colorMessage(event.getPlayer(), event.getMessage(), plugin.isColorPermissions()));
+
     }
 
 }

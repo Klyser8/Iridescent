@@ -129,7 +129,6 @@ public class ColorUtil {
             if (!legacyMsg.toLowerCase().contains(rawCode)) continue;
             legacyMsg = legacyMsg.replaceAll("\\$" + rawCode, "\\$" + plugin.getColors().get(code));
         }
-        System.out.println(legacyMsg);
         List<String> hexes = new ArrayList<>();
         Matcher matcher = Pattern.compile(RAW_GRADIENT_HEX_REGEX).matcher(legacyMsg);
         while (matcher.find()) {
